@@ -1,0 +1,56 @@
+.bg-color-home {
+  background-color: #152850;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  align-items: center;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  background-color: transparent;
+  margin-bottom: 150px;
+  text-align: center;
+  margin-right: 0px;
+}
+
+.log {
+  height: 70px;
+  align-items: center;
+}
+
+.logout-btn {
+  width: 120px;
+  height: 40px;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.heading-home {
+  font-family: Roboto;
+  font-size: 65px;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.card-img {
+  width: 70%;
+  height: 500px;
+  align-self: center;
+  margin-bottom: 50px;
+}
